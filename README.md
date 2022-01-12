@@ -1,4 +1,4 @@
-# Feature Selection, Model Selection, and Tuning (FMST) - Employee Promotion Eligibility Prediction at Likoma Company - By David Salako.
+# Feature Selection, Model Selection, and Tuning (FMST) - Employee Promotion Eligibility Prediction at Likoma Company. - By David Salako.
 
 ## Background and Context:
 
